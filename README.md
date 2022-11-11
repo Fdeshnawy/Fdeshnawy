@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farah Fahmy , a programmer.
-- 👀 I’m interested in AI , Web and Mobile Developing.
-- 🌱 I’m currently learning Deep Learning and BackEnd Development.
+- 👀 I’m interested in Web Developing.
+- 🌱 I have experience in UI/UX,HTML,CSS,JS and React
 - 📫 How to reach me through my email: f.deshnawy@aucegypt.edu
 <!---
 Fdeshnawy/Fdeshnawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
